@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766528607239",
+    "firebase_url": "https://apijson-1ffb2.firebaseio.com",
+    "project_id": "apijson-1ffb2",
+    "storage_bucket": "apijson-1ffb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766528607239:android:c483a0e787e7e2ea",
+        "android_client_info": {
+          "package_name": "com.example.apijson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766528607239-gob3la9ghqss0mm63iphlv6cpftmv3i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apijson",
+            "certificate_hash": "3b857bf9cc183b351ff32fb5440dd1ebc5d5397c"
+          }
+        },
+        {
+          "client_id": "766528607239-q91q14ed1akesdnaffkd456p51a5juto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkcCHpS8y7ep9sGoVgh9n7Hzz0ENVZVWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766528607239-q91q14ed1akesdnaffkd456p51a5juto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
